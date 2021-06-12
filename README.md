@@ -1,3 +1,5 @@
+https://img.shields.io/badge/language-React-blue
+
 ### Hi there 👋
 
 <!--
