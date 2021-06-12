@@ -2,6 +2,9 @@
 
 - 📮  **Dongmin's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayg1o1d@gmail.com)](mailto:sayg1o1d@gmail.com)
 
+![Dongmin GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin7208&&show_icons=true&theme=merko)
+
+
 
 
 ### Hi there 👋
