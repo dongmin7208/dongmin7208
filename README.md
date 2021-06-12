@@ -1,6 +1,6 @@
-https://img.shields.io/badge/language-React-blue
 
-img.shields.io/static/v1?label=language&message=React&color=blue
+
+[!name](http://img.shields.io/badge/language-React-orange) 
 
 ### Hi there 👋
 
