@@ -1,5 +1,7 @@
 https://img.shields.io/badge/language-React-blue
 
+img.shields.io/static/v1?label=language&message=React&color=blue
+
 ### Hi there 👋
 
 <!--
