@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[**Resume**](https://bit.ly/3dN3DpY)
+[**Resume**]link
 
 - 💻 **I'm a Front-end Develover**
 - 🗼 **I live in Tokyo.**
