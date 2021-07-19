@@ -7,7 +7,7 @@
 
 - 🗼 **I live in Tokyo.**
 
-- 📮 **Dongmin's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayg1o1d@gmail.com)](mailto:dongmin.park.career@gmail.com)
+- 📮 [**Dongmin's email ...**![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayg1o1d@gmail.com)](mailto:dongmin.park.career@gmail.com)
 
 - 📋 [**Dongmin's portfolio...**🧷](https://drive.google.com/file/d/1w9gfVkfl5CyzC5z0_aVYLHo_8Kz3seDF/view?usp=sharing)
 
