@@ -5,11 +5,11 @@
 
 - 💻 **I'm a Front-end Develover**
 
-- 🗼 **I live in Tokyo.**
+- 🗼 **I live in Tokyo..**
 
 - 📮 [**Dongmin's email ...**![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayg1o1d@gmail.com)](mailto:dongmin.park.career@gmail.com)
 
-- 📋 [**Dongmin's portfolio...🧷**](https://drive.google.com/file/d/1kp3Eh7uYalOwmC-b0xWnQyX9fiM_vZoo/view?usp=sharing)
+- 📋 [**Dongmin's portfolio...🧷**](https://drive.google.com/file/d/1AT-zajnqm42UdFBREqTzMQ1v4iXecHwB/view?usp=sharing)
 
 ![Dongmin GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin7208&&show_icons=true&theme=merko)
 
