@@ -14,7 +14,7 @@
 - 📋 [**Dongmin's portfolio(java)..🧷**](https://drive.google.com/file/d/1SSwC7guHt3PMnnA_xrj9G1fphxcNihFZ/view?usp=sharing)
  -->
 
-![Dongmin GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin7208&&show_icons=true&theme=radical)
+![Dongmin GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin7208&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongmin7208&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
