@@ -5,7 +5,7 @@
 
 - 💻 **I'm a Front-end Develover**
 
-- 🗼 **I live in Tokyo..**
+- 🗼 **I live in TOKYO..**
 
 - 📮 [**Dongmin's email ...**![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayg1o1d@gmail.com)](mailto:dongmin.park.career@gmail.com)
 <!-- 
