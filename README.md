@@ -8,7 +8,7 @@
 - 🗼 **I live in TOKYO..**
 
 - 📮 email dongmin.park.career@gmail.com
-- 🎢 [**Dongmin's Instagram ...🧷**](https://www.instagram.com/dmm_0877/)
+<!-- - 🎢 [**Dongmin's Instagram ...🧷**](https://www.instagram.com/dmm_0877/) -->
 - https://www.linkedin.com/in/dongmin-park-47559b1ab/
 <!-- - 📓 [**Dongmin's Study note ...**](https://stupendous-squid-8d8.notion.site/fed037402b754ecba6504dbf93788e88) -->
 <!-- 
