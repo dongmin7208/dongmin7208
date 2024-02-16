@@ -12,25 +12,14 @@
 - 📋 [**Dongmin's portfolio(java)..🧷**](https://drive.google.com/file/d/1SSwC7guHt3PMnnA_xrj9G1fphxcNihFZ/view?usp=sharing)
  -->
  <div style="display:flex">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JS&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   </div>
-
-  <div style="display:flex">
-   <div>
-    
+ 
 ![Dongmin GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin7208&hide=prs&show_icons=true&hide_border=true&theme=algolia)
-
-</div>
-
-<div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongmin7208&hide_border=true&theme=algolia&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongmin7208&count_bg=%2379C83D&title_bg=%231950D7&icon=react.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
