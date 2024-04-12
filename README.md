@@ -3,7 +3,7 @@
 
 - 💻 **I'm a Front-end Develover**
 
-- 📮 email dongmin.park.career@gmail.com
+- 📮  dongmin.park.career@gmail.com
 <!-- - 🎢 [**Dongmin's Instagram ...🧷**](https://www.instagram.com/dmm_0877/) -->
 
 <!-- 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   </div>
  
-![Dongmin GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin7208&hide=prs&show_icons=true&hide_border=true&theme=algolia)
+<!--  ![Dongmin GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin7208&hide=prs&show_icons=true&hide_border=true&theme=algolia) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongmin7208&hide_border=true&theme=algolia&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
