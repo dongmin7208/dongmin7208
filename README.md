@@ -10,13 +10,19 @@
 - 📋 [**Dongmin's portfolio(JavaScript)...🧷**](https://drive.google.com/file/d/1AT-zajnqm42UdFBREqTzMQ1v4iXecHwB/view?usp=sharing)
 
 - 📋 [**Dongmin's portfolio(java)..🧷**](https://drive.google.com/file/d/1SSwC7guHt3PMnnA_xrj9G1fphxcNihFZ/view?usp=sharing)
- -->
+ 
  <div style="display:flex">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-  </div>
+  </div> -->
  
-<!--  ![Dongmin GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin7208&hide=prs&show_icons=true&hide_border=true&theme=algolia) -->
+ 
+# My skill✨
+## Languages 
+[![Languages](https://skillicons.dev/icons?i=js,ts,dart,kotlin,graphql,ruby,php)](https://github.com/dongmin7208)
+
+## Libraries
+[![Libraries](https://skillicons.dev/icons?i=nextjs,react,flutter,vue,rails,laravel)](https://github.com/dongmin7208)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongmin7208&hide_border=true&theme=algolia&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
