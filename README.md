@@ -17,7 +17,7 @@
   </div> -->
  
  
-# My skill✨
+# My skill
 ## Languages 
 [![Languages](https://skillicons.dev/icons?i=js,ts,dart,graphql,kotlin,nodejs,ruby,php)](https://github.com/dongmin7208)
 
