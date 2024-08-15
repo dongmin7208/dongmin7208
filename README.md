@@ -18,13 +18,15 @@
  
  
 # My skill
-## Languages 
+
 [![Languages](https://skillicons.dev/icons?i=js,ts,dart,graphql,kotlin,nodejs,ruby,php)](https://github.com/dongmin7208)
 
-## Libraries
 [![Libraries](https://skillicons.dev/icons?i=nextjs,react,flutter,vue,express,spring,rails,laravel)](https://github.com/dongmin7208)
+# 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongmin7208&hide_border=true&theme=algolia&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongmin7208&count_bg=%2379C83D&title_bg=%231950D7&icon=react.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
