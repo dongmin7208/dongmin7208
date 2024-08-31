@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-- 💻 **Hello, I'm a mobile engineer.**
+ 💻  **Hello, I'm a mobile engineer.**
+  
 **I've worked on manga apps as a mobile engineer and have experience as a front-end engineer on projects like influencer platforms,**
   **e-commerce sites, and community sites. It brings me joy when my suggestions help increase user numbers and improve metrics.**
 **I prioritize user experience in my development, and I approach my work with a strong sense of responsibility.**
