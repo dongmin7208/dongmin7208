@@ -7,7 +7,8 @@
 **I prioritize user experience in my development, and I approach my work with a strong sense of responsibility.**
 
 - 📮  dongmin.park.career@gmail.com
-- I'm running an IT study group in Tokyo.
+- https://www.linkedin.com/in/dongmin-park-47559b1ab/?locale=ja_JP
+- **I'm running an IT study group in Tokyo.**
 - http://www.tokyoitgroup.com/
 <!-- - 🎢 [**Dongmin's Instagram ...🧷**](https://www.instagram.com/dmm_0877/) -->
 
