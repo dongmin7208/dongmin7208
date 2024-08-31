@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 
-- 💻 **I'm a Front-end Develover**
+- 💻 **Hello, I'm a mobile engineer.**
+**I've worked on manga apps as a mobile engineer and have experience as a front-end engineer on projects like influencer platforms,**
+  **e-commerce sites, and community sites. It brings me joy when my suggestions help increase user numbers and improve metrics.**
+**I prioritize user experience in my development, and I approach my work with a strong sense of responsibility.**
 
 - 📮  dongmin.park.career@gmail.com
+- I'm running an IT study group in Tokyo.
+- http://www.tokyoitgroup.com/
 <!-- - 🎢 [**Dongmin's Instagram ...🧷**](https://www.instagram.com/dmm_0877/) -->
 
 <!-- 
@@ -19,9 +24,9 @@
  
 # My skill
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,dart,graphql,kotlin,nodejs,ruby,php)](https://github.com/dongmin7208)
+[![Languages](https://skillicons.dev/icons?i=dart,js,ts,graphql,kotlin,nodejs,ruby,php)](https://github.com/dongmin7208)
 
-[![Libraries](https://skillicons.dev/icons?i=nextjs,react,flutter,vue,express,spring,rails,laravel)](https://github.com/dongmin7208)
+[![Libraries](https://skillicons.dev/icons?i=flutter,nextjs,react,vue,express,spring,rails,laravel)](https://github.com/dongmin7208)
 # 
 
 
