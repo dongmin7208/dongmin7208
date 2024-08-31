@@ -27,10 +27,10 @@
 [![Languages](https://skillicons.dev/icons?i=dart,js,ts,graphql,kotlin,nodejs,ruby,php)](https://github.com/dongmin7208)
 
 [![Libraries](https://skillicons.dev/icons?i=flutter,nextjs,react,vue,express,spring,rails,laravel)](https://github.com/dongmin7208)
-# 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongmin7208&hide_border=true&theme=algolia&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongmin7208&hide_border=true&theme=algolia&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
